@@ -1,6 +1,6 @@
 # Robô Segue Faixa 
 
-Robô criado para a categoria de segue faixa  da OBR ( Olimpíada brasileira de robótica ), utilizando um arduino uno.
+Robô criado para a categoria de segue faixa  da OBR ( Olimpíada brasileira de robótica ), utilizando um arduino uno que aliado ao TCRT 5000 é capaz de seguir a linha  e para executar a função de ultrapaçar o obstaculo é ultilizado o sensor ultrasonico.
 
 ### Montagem mecanica
 
